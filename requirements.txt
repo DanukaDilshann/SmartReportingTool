@@ -1,0 +1,28 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing a.\venev\zure-functions-worker may cause unexpected issues
+pyodbc
+pandas 
+numpy
+python-dotenv
+# langchain_community
+# langchain_openai
+json
+sentence_transformers
+# faiss-cpu
+# langgraph
+# langchain_groq
+# langchain_core
+# Chromadb
+# faiss-cpu
+# google.generativeai
+# langchain_huggingface
+tabulate
+redis
+openai
+transformers 
+sentencepiece
+azure-storage-blob
+azure-functions
+pyodbc
+python-dotenv
